@@ -1,11 +1,9 @@
 # Holita, I'm Jun 👋
 ### And I'm a 3D student [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
 
-[![Twitch Status](https://img.shields.io/twitch/status/Koocachookies?style=social)](https://twitch.com/koocachookies)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Koocachookies?style=social)](https://twitter.com/koocachookies)
-![GitHub Followers](https://img.shields.io/github/followers/danigomezcev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/danigomezcev?style=social)
-[![](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&logoColor=E4405F)](https://www.instagram.com)
+[![Twitch Status](https://img.shields.io/twitch/status/juntokki?style=social)](https://twitch.com/juntokki)
+[![Twitter Follow](https://img.shields.io/twitter/follow/juntokki?style=social)](https://twitter.com/juntokki_)
+[![](https://img.shields.io/badge/Instagram-FFFFFF?style=social&logo=instagram&logoColor=E4405F)](https://www.instagram.com/juntokki/)
 
 ## Here are some of the softwares that I learnt:
 
@@ -19,5 +17,4 @@
 
 ## Here it is my mastery chart on league of legends champs:
 
-	<a href="https://masterychart.com/profile/euw/juntokki">
-  		<img src="https://github.com/JunDominguez2A/JunDominguez2A/blob/main/images/lolmastery.PNG">
+<a href="https://masterychart.com/profile/euw/juntokki"><img src="https://github.com/JunDominguez2A/JunDominguez2A/blob/main/images/lolmastery.PNG"><a/>
