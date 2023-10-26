@@ -35,7 +35,7 @@
 <table style="width:100%">
   <tr>
   <td>
-	<a href="https://masterychart.com/profile/euw/juntokki">
+	<a href="(https://masterychart.com/profile/euw/juntokki)">
   		<img src="https://github.com/JunDominguez2A/JunDominguez2A/blob/main/images/lolmastery.PNG">
 	</a>
 	</td>
