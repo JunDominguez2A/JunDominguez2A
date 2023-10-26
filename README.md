@@ -1,5 +1,6 @@
 # Holita, I'm Jun 👋
-### And I'm a 3D student [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/favicon.png" width=48>](https://www.cevbarcelona.com/)
+## And I'm a 3D student at [<img src="https://www.cevbarcelona.com/wp-content/uploads/2018/08/logo-h80.png" width=48>](https://www.cevbarcelona.com/)
+<img src="https://i0.wp.com/katzenworld.co.uk/wp-content/uploads/2014/09/img_7562.jpg?w=1020&ssl=1">
 
 [![Twitch Status](https://img.shields.io/twitch/status/juntokki?style=social)](https://twitch.com/juntokki)
 [![Twitter Follow](https://img.shields.io/twitter/follow/juntokki?style=social)](https://twitter.com/juntokki_)
