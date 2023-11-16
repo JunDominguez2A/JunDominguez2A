@@ -20,7 +20,7 @@
 
 ## Here there are some companies I would like to work with someday:
 
-<a href="https://masterychart.com/profile/euw/juntokki"><img src="https://github.com/JunDominguez2A/JunDominguez2A/blob/main/images/bandai_namco_improved_2022_logo_by_samcraft10_dewulkj-pre.png" width=400></a>
+<a href="https://masterychart.com/profile/euw/juntokki"><img src="https://github.com/JunDominguez2A/JunDominguez2A/blob/main/images/bandai_namco_improved_2022_logo_by_samcraft10_dewulkj-pre.png" width=300></a>
 <a href="https://www.riotgames.com/es"><img src="https://github.com/JunDominguez2A/JunDominguez2A/blob/main/images/Riot%20Games.png" width=400></a>
 <br>
 <a href="https://www.square-enix-games.com/es_ES/home"><img src="https://github.com/JunDominguez2A/JunDominguez2A/blob/main/images/Square_Enix_logo.svg.png" width=400><a/>
